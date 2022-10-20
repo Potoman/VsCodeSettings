@@ -1,0 +1,12 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "Msys2": {
+            "path": "C:\\msys64\\msys2_shell.cmd",
+            "args": [
+                "-mingw64",
+                "-no-start",
+                "-defterm"
+            ]
+        }
+    }
+}
